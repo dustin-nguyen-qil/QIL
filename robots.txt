@@ -1,1 +1,1 @@
-Sitemap: /QIL/sitemap.xml
+Sitemap: /sitemap.xml
