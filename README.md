@@ -1,7 +1,7 @@
 
 # dustin-nguyen-qil's Website
 
-Visit **[qil-uh.com](http://qil-uh.com)** 🚀
+Visit **[dustin-nguyen-qil.github.io/QIL](https://dustin-nguyen-qil.github.io/QIL)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
