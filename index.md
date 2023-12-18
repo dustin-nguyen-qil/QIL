@@ -1,9 +1,11 @@
 ---
 ---
 
-# dustin-nguyen-qil's Website
+# Welcome to the Quantitative Imaging Lab 
 
-An engaging 1-3 sentence description of your lab.
+Quantitative Imaging Laboratory is part of the [Department of Computer Science](https://www.uh.edu/nsm/computer-science/) at [University of Houston](https://uh.edu/). 
+
+QIL's research is focused on basic and applied research in Computer Vision, Image Understanding, Pattern Recognition, and Quantitative Microscopy. The mission of this group has been to develop novel methods and systems for image and scene analysis that are capable of making human-like decisions. Our passion has been in the pursuit of scientific excellence and innovative engineering, enabling pragmatic solutions to problems of societal impact. QIL was founded by Prof. Shishir K. Shah in 2006 and since then has made significant contributions in the broad areas of quantitative microscopy and video analytics. Current research initiatives of the laboratory are in wide-area video surveillance for behavioral analysis and biometrics, seismic imaging, and biomedical image analysis for morphological characterization with applications in medicine.
 
 {% include section.html %}
 
@@ -11,7 +13,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research effort is focussing on **Person Re-Identification, Seismic Imaging, Anomaly Detection, and Data Quality Assessment**.
 
 {%
   include button.html
@@ -34,7 +36,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are working actively on **Person Re-Identification (Re-ID) in the Wild**, where we deal with real-world Re-ID challenges including *clothing changes, viewpoint variations, pose variations, occlusion, etc*. We are also tackling the problem of Seismic Imaging. We are grateful for funding from various federal and state agencies including NSF, DHS, ARO, NIJ, NIST, and others.
+
 
 {%
   include button.html
@@ -59,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+QIL is featured by highly self-motivated and funny graduate and undergraduate students, where we harmonize a balanced working environment and grow together.
 
 {%
   include button.html

@@ -1,10 +1,10 @@
 ---
-name: John Doe
-image: images/photo.jpg
+name: Rahma Aloui
+image: images/team/rahma.jpeg
 role: phd
-group: alum
 links:
-  github: john-doe
+  email: raloui@central.uh.edu
+  github: rahma3199 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
